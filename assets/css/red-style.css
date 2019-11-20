@@ -25,7 +25,7 @@
 
 .site-footer{
 	background-color: #1C1C1C !important;
-	border-top: 2px solid #865f5f;
+	border-top: 2px solid #865f5f !important;
 }
 
 .site-logo{

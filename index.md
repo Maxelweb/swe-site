@@ -10,11 +10,12 @@ In questa pagina sono presenti alcuni link utili ai nostri servizi principali:
 - [Progetto su Github](http://project.redroundrobin.site)
 - [Membri del gruppo](members/) 
 - [Contatti](contacts/) 
+- [Repository del sito corrente](http://this.redroundrobin.site)
 
 
 ## Altro
 
-Link utili al progetto di SWE
+Link utili al progetto di SWE 2019-2020:
 
 - [Sito di SWE](https://swe.debug.ovh)
 - [Regolamento progetto](https://www.math.unipd.it/~tullio/IS-1/2019/Dispense/PD01.pdf)
@@ -23,4 +24,6 @@ Link utili al progetto di SWE
 - [Gruppi primo lotto](https://www.math.unipd.it/~tullio/IS-1/2019/Progetto/Gruppi_I_Lotto.pdf)
 
 
-> **Ultimo aggiornamento:** 20/11/2019 - Ore 20:00
+## Ultimo aggiornamento
+
+L'ultimo aggiornamento del sito è stato: **20/11/2019 - Ore 22:00**
