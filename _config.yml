@@ -1,0 +1,22 @@
+#
+# Github pages customized 
+# for redroundrobin.site
+#
+
+title: "Red Round Robin"
+description: >
+  Sito ufficiale per il progetto di Ingegneria del software, gruppo 6, 
+  Università di Padova
+
+email: info@redroundrobin.site
+remote_theme: jekyll/minima
+show_excerpts: false
+
+minima: 
+  date_format: "%d %B %Y"
+  social_links: 
+    github: maxelweb
+
+header_pages: 
+  - membri.md
+  - contatti.md

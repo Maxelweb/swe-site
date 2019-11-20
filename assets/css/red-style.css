@@ -1,0 +1,53 @@
+
+/*
+ *	CSS per redroundrobin.site
+ *	
+ *  (from jekyll/minima for Github Pages)
+*/
+
+
+a {
+	color: #b52618 !important;
+}
+
+.site-header{
+	border-bottom: 2px solid #7E1C1C !important;
+	background-color: #b13731;
+}
+
+.site-title, 
+.site-title:visited{
+	color: #FFF !important;
+}
+
+@media screen and (min-width: 600px) {
+
+	.site-nav .page-link{
+		color: #FFF !important;
+	}
+}
+
+
+.site-footer{
+	background-color: #1C1C1C !important;
+	border-top: 2px solid #865f5f;
+}
+
+.site-logo{
+	width: 25px;
+	float: left;
+	margin: 16px 10px 0 0;
+	height: 25px;
+}
+
+.site-title-fix{
+	padding-right: 0 !important;
+	color: #CCC !important;
+}
+
+hr{
+	margin: 40px 0 35px !important;
+	border: none;
+	border-top: 1px solid #C5C6B3;
+}
+
