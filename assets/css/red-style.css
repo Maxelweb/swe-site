@@ -1,14 +1,9 @@
 
 /*
  *	CSS per redroundrobin.site
- *	
  *  (from jekyll/minima for Github Pages)
 */
 
-
-a {
-	color: #b52618 !important;
-}
 
 .site-header{
 	border-bottom: 2px solid #7E1C1C !important;
@@ -51,3 +46,6 @@ hr{
 	border-top: 1px solid #C5C6B3;
 }
 
+a {
+	color: #b52618 !important;
+}
