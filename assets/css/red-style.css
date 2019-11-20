@@ -7,7 +7,7 @@
 
 .site-header{
 	border-bottom: 2px solid #7E1C1C !important;
-	background-color: #b13731;
+	background-color: #a82b25;
 }
 
 .site-title, 
@@ -39,6 +39,12 @@
 	padding-right: 0 !important;
 	color: #CCC !important;
 }
+
+.footer-heading{
+	color: #CCC;
+	font-weight: bold;
+}
+
 
 hr{
 	margin: 40px 0 35px !important;

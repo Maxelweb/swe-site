@@ -14,5 +14,6 @@ Il gruppo, denominato Red Round Robin, si costituisce di 7 persone:
 - Alessandro Tommasin
 - Giovanni Vidotto
 
+--- 
 
-> **Numero del gruppo:** 6
+**Numero del gruppo:** 6

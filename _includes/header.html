@@ -1,4 +1,4 @@
-<!-- taken from the original minima theme 1 -->
+<!-- header.html taken from the original minima theme -->
 
 <header class="site-header">
 
@@ -6,8 +6,8 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
-    <img src="images/favicon.png" class="site-logo">
-    <span class="site-title site-title-fix">/&nbsp;</span>
+    <img src="{{ "/" | relative_url }}images/favicon.png" class="site-logo" alt="favicon">
+    <!--<span class="site-title site-title-fix">/&nbsp;</span>-->
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 
     {%- if titles_size > 0 -%}

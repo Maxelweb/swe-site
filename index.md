@@ -3,19 +3,16 @@ title: Home
 layout: home
 ---
 
-![logo red round robin](images/logo.png)
-
-Benvenuti nel sito ufficiale della Red Round Robin Corporation.
+Benvenuti nel sito ufficiale della **Red Round Robin Corporation**.
 
 In questa pagina sono presenti alcuni link utili ai nostri servizi principali:
 
 - [Progetto su Github](http://project.redroundrobin.site)
 - [Membri del gruppo](members/) 
-- [Contatti email](contacts/) 
+- [Contatti](contacts/) 
 
 
-
-#### Altro
+## Altro
 
 Link utili al progetto di SWE
 
@@ -26,4 +23,4 @@ Link utili al progetto di SWE
 - [Gruppi primo lotto](https://www.math.unipd.it/~tullio/IS-1/2019/Progetto/Gruppi_I_Lotto.pdf)
 
 
-> **Ultimo aggiornamento: 20/11/2019 - Ore 20:00**
+> **Ultimo aggiornamento:** 20/11/2019 - Ore 20:00
