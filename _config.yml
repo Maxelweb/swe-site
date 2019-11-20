@@ -9,7 +9,7 @@ description: >
 
 author: Red Round Robin Corporation
 email: info@redroundrobin.site
-theme: minima 
+remote_theme: jekyll/minima@v2.5.0
 show_excerpts: false
 
 
