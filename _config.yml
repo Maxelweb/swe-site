@@ -12,6 +12,7 @@ email: info@redroundrobin.site
 remote_theme: jekyll/minima
 show_excerpts: false
 
+
 minima: 
   date_format: "%d %B %Y"
   social_links: 
@@ -20,4 +21,3 @@ minima:
 header_pages: 
   - membri.md
   - contatti.md
-theme: jekyll-theme-minimal
