@@ -6,7 +6,6 @@ permalink: /contacts/
 
 Per contattarci, è possibile inviare una email al seguente indirizzo:
 
-### [info@redroundrobin.site](mailto:info@redroundrobin.site)
-
+### [redroundrobin.site@gmail.com](mailto:redroundrobin.site@gmail.com)
 
 

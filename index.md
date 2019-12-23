@@ -3,19 +3,22 @@ title: Home
 layout: home
 ---
 
-Benvenuti nel sito ufficiale della **Red Round Robin Corporation**.
-
-In questa pagina sono presenti alcuni link utili ai nostri servizi principali:
+Benvenuti nel sito ufficiale del gruppo **Red Round Robin**.
 
 - [Progetto su Github](http://project.redroundrobin.site)
-- [Membri del gruppo](members/) 
-- [Contatti](contacts/) 
-- [Repository del sito corrente](http://this.redroundrobin.site)
+- [Sorgenti del sito su Github](http://this.redroundrobin.site)
+
+
+## Capitolato scelto
+
+> C6 - ThiReMa, San Marco Informatica
+
+**Stato di avanzamento del progetto:** Pre-Revisione dei Requisiti
 
 
 ## Altro
 
-Link utili al progetto di SWE 2019-2020:
+Link utili al progetto di Ingegneria del Software:
 
 - [Sito di SWE](https://swe.debug.ovh)
 - [Regolamento progetto](https://www.math.unipd.it/~tullio/IS-1/2019/Dispense/PD01.pdf)
@@ -26,4 +29,4 @@ Link utili al progetto di SWE 2019-2020:
 
 ## Ultimo aggiornamento
 
-L'ultimo aggiornamento del sito è stato: **20/11/2019 - Ore 22:00**
+L'ultimo aggiornamento del sito è stato: **23/12/2019 - Ore 18:00**
