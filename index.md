@@ -36,4 +36,4 @@ Link utili al progetto di Ingegneria del Software:
 
 ## Ultimo aggiornamento
 
-L'ultimo aggiornamento del sito è stato: **23/12/2019 - Ore 18:00**
+L'ultimo aggiornamento del sito è stato: **14/01/2020 - Ore 15:00**
