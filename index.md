@@ -9,6 +9,13 @@ Benvenuti nel sito ufficiale del gruppo **Red Round Robin**.
 - [Sorgenti del sito su Github](http://this.redroundrobin.site)
 
 
+## Revisione dei Requisiti (new)
+
+Link alla repository pubblica:
+
+- [Cartella pubblica di Google Drive](https://drive.google.com/open?id=17qt131a_wV08n1jLR0fiSS8FoROeKiSY)
+
+
 ## Capitolato scelto
 
 > C6 - ThiReMa, San Marco Informatica

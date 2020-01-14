@@ -19,5 +19,6 @@ minima:
     github: Maxelweb
 
 header_pages: 
+  - revisioni.md
   - membri.md
   - contatti.md
