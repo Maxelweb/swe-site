@@ -12,6 +12,8 @@ Benvenuti nel sito ufficiale del gruppo **Red Round Robin** :bird:
 - [Sorgenti del sito su Github](http://this.redroundrobin.site)
 
 
+---
+
 ## Capitolato scelto :bulb:
 
 > C6 - ThiReMa, SanMarco Informatica
@@ -42,4 +44,4 @@ Link utili al progetto di Ingegneria del Software:
 
 ### Ultimo aggiornamento :arrows_counterclockwise:
 
-27/01/2020 - Ore 12:15
+**27/01/2020 - Ore 12:15**
