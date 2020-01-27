@@ -3,27 +3,30 @@ title: Home
 layout: home
 ---
 
-Benvenuti nel sito ufficiale del gruppo **Red Round Robin**.
+
+---
+
+Benvenuti nel sito ufficiale del gruppo **Red Round Robin** :bird:
 
 - [Progetto su Github](http://project.redroundrobin.site)
 - [Sorgenti del sito su Github](http://this.redroundrobin.site)
 
 
-## Revisione dei Requisiti (new)
+## Revisione dei Requisiti :pushpin:
 
-Link alla repository pubblica:
+- :file_folder: [Cartella pubblica di Google Drive](https://drive.google.com/open?id=17qt131a_wV08n1jLR0fiSS8FoROeKiSY)
+- :film_projector: [Presentazione RR](https://drive.google.com/drive/folders/1UzlThSUjDmVw_Xdufo2yVau1ZvoRE5tV?usp=sharing)
 
-- [Cartella pubblica di Google Drive](https://drive.google.com/open?id=17qt131a_wV08n1jLR0fiSS8FoROeKiSY)
+---
+
+## Capitolato scelto :bulb:
+
+> C6 - ThiReMa, SanMarco Informatica
+
+**Stato di avanzamento del progetto:** [RR approvata](https://www.math.unipd.it/~tullio/IS-1/2019/Progetto/RR.html) (b0.4)
 
 
-## Capitolato scelto
-
-> C6 - ThiReMa, San Marco Informatica
-
-**Stato di avanzamento del progetto:** Pre-Revisione dei Requisiti
-
-
-## Altro
+## Altro :bookmark:
 
 Link utili al progetto di Ingegneria del Software:
 
@@ -32,8 +35,9 @@ Link utili al progetto di Ingegneria del Software:
 - [Regolamento aggiudicazione capitolati](https://www.math.unipd.it/~tullio/IS-1/2019/Progetto/)
 - [Regolamento organigramma](https://www.math.unipd.it/~tullio/IS-1/2019/Progetto/RO.html)
 - [Gruppi primo lotto](https://www.math.unipd.it/~tullio/IS-1/2019/Progetto/Gruppi_I_Lotto.pdf)
+- [Esiti RR](https://www.math.unipd.it/~tullio/IS-1/2019/Progetto/RR.html)
 
 
-## Ultimo aggiornamento
+## Ultimo aggiornamento :arrows_counterclockwise:
 
-L'ultimo aggiornamento del sito è stato: **14/01/2020 - Ore 15:00**
+L'ultimo aggiornamento del sito è stato: **27/01/2020 - Ore 12:00**

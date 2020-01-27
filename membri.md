@@ -18,3 +18,4 @@ Il gruppo, denominato Red Round Robin, si costituisce di 7 persone:
 ---
 
 **Numero del gruppo:** 6
+**Capitolato scelto:** ThiReMa - SanMarco Informatica
