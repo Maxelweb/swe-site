@@ -22,3 +22,6 @@ header_pages:
   - revisioni.md
   - membri.md
   - contatti.md
+
+plugins:
+  - jemoji
