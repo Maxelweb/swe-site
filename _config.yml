@@ -20,6 +20,7 @@ minima:
 
 header_pages: 
   - revisioni.md
+  - links.md
   - membri.md
   - contatti.md
 

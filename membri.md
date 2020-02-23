@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Membri del gruppo
+title: Membri
 permalink: /members/
 ---
 
