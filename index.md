@@ -8,9 +8,14 @@ layout: home
 
 Benvenuti nel sito ufficiale del gruppo **Red Round Robin** :bird:
 
-- [Progetto su Github](http://project.redroundrobin.site) (privato)
-- [Sorgenti del sito su Github](http://this.redroundrobin.site)
-
+- [Github.com/RedRoundRobin](https://github.com/RedRoundRobin)
+- [swe-thirema](http://thirema.redroundrobin.site)
+	- [swe-api](http://api.redroundrobin.site)
+	- [swe-webapp](http://webapp.redroundrobin.site)
+	- [swe-telegram](http://telegram.redroundrobin.site)
+	- [swe-kafka-db](http://kafka-db.redroundrobin.site)
+	- [swe-docs](http://docs.redroundrobin.site)
+	- [swe-gateway](http://gateway.redroundrobin.site)
 
 ---
 
@@ -18,32 +23,25 @@ Benvenuti nel sito ufficiale del gruppo **Red Round Robin** :bird:
 
 > C6 - ThiReMa, SanMarco Informatica
 
-**Stato di avanzamento del progetto:** [RP approvata](https://www.math.unipd.it/~tullio/IS-1/2019/Progetto/RP.html) (b0.10)
+**Stato di avanzamento del progetto:** [RQ conclusa, in attesa esito](#) (b0.15)
 
----
-
-## Revisione di Progettazione :pushpin:
-
-- :file_folder: [Cartella pubblica di Google Drive](https://drive.google.com/open?id=17qt131a_wV08n1jLR0fiSS8FoROeKiSY)
-- :film_projector: [Presentazione RP e TB](https://drive.google.com/drive/folders/1UzlThSUjDmVw_Xdufo2yVau1ZvoRE5tV?usp=sharing)
-
----
+![riot](images/riot.png)
 
 
 ## Altro :bookmark_tabs:
 
 Link utili al progetto di Ingegneria del Software:
 
+
+- [Esiti RP](https://www.math.unipd.it/~tullio/IS-1/2019/Progetto/RP.html)
+- [Esiti RR](https://www.math.unipd.it/~tullio/IS-1/2019/Progetto/RR.html)
 - [Sito di SWE](https://swe.debug.ovh)
 - [Regolamento progetto](https://www.math.unipd.it/~tullio/IS-1/2019/Dispense/PD01.pdf)
 - [Regolamento aggiudicazione capitolati](https://www.math.unipd.it/~tullio/IS-1/2019/Progetto/)
 - [Regolamento organigramma](https://www.math.unipd.it/~tullio/IS-1/2019/Progetto/RO.html)
 - [Gruppi primo lotto](https://www.math.unipd.it/~tullio/IS-1/2019/Progetto/Gruppi_I_Lotto.pdf)
-- [Esiti RR](https://www.math.unipd.it/~tullio/IS-1/2019/Progetto/RR.html)
-- [Esiti RP](https://www.math.unipd.it/~tullio/IS-1/2019/Progetto/RP.html)
-
 
 
 ### Ultimo aggiornamento :arrows_counterclockwise:
 
-**23/03/2020 - Ore 21:30**
+- **23/04/2020 - Ore 11:00** - Aggiornati i link e le revisioni
