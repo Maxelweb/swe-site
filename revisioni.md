@@ -13,8 +13,10 @@ In questa sezione sono presenti tutte le revisioni del progetto di SWE.
 - **Data di consegna materiale:** 13 marzo 2020
 - **Data presentazione:** 20 aprile 2020
 - **Versione di prodotto:** +b0.15
-- **Status:** in attesa
-
+- **Status:** [approvata](https://www.math.unipd.it/~tullio/IS-1/2019/Progetto/RQ.html) :heavy_check_mark:
+- **Link ai documenti:**  
+	- :file_folder: [Cartella pubblica di Google Drive](https://drive.google.com/drive/folders/1iKZ3SAwq-iA_hfYzytVylcceP-fwv8xA)
+	- :film_projector: [Presentazione RQ e Product Baseline](https://drive.google.com/drive/folders/1UzlThSUjDmVw_Xdufo2yVau1ZvoRE5tV?usp=sharing)
 
 ---
 
