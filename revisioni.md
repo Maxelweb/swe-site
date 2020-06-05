@@ -8,9 +8,23 @@ permalink: /reviews/
 In questa sezione sono presenti tutte le revisioni del progetto di SWE.
 
 
+### Revisione di Accettazione :pushpin:
+
+- **Data di consegna materiale:** 11 maggio 2020
+- **Data presentazione:** 18 maggio 2020
+- **Versione di prodotto:** +b1.0
+- **Status:** [approvata](https://www.math.unipd.it/~rcardin/sweb/2020/R2020.pdf) :heavy_check_mark:
+- **Link al prodotto:**  
+	- :file_folder: [Cartella pubblica di Google Drive](https://drive.google.com/drive/u/2/folders/1Bgp4GlxOqch6fmSjvgfuCC3z8yf3zROB)
+	- :film_projector: [Presentazione RA](https://drive.google.com/drive/folders/1UzlThSUjDmVw_Xdufo2yVau1ZvoRE5tV?usp=sharing)
+
+---
+
+
+
 ### Revisione di Qualifica :pushpin:
 
-- **Data di consegna materiale:** 13 marzo 2020
+- **Data di consegna materiale:** 13 aprile 2020
 - **Data presentazione:** 20 aprile 2020
 - **Versione di prodotto:** +b0.15
 - **Status:** [approvata](https://www.math.unipd.it/~tullio/IS-1/2019/Progetto/RQ.html) :heavy_check_mark:
