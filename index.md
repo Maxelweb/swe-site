@@ -24,6 +24,7 @@ Benvenuti nel sito ufficiale del gruppo **Red Round Robin** :bird:
 > C6 - ThiReMa, SanMarco Informatica
 
 - **Stato di avanzamento del progetto:** [Concluso](https://www.math.unipd.it/~rcardin/sweb/2020/R2020.pdf) (b1.0)
+- **Voto collaudo:** `30` / `30`
 - **Voto finale:** `29.80` / `30`
 
 
